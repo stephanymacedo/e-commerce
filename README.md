@@ -10,7 +10,8 @@ Código fonte no github com o arquivo README detalhando as funcionalidades da pr
 
 Funcionalidades:
 
-A página consiste em um formulário  para cadastro de clientes
+A página consiste em um formulário  para cadastro de clientes e  alguns produtos cadastrados;
+Ao clicar nos produtos, eles são adicionado ao carrinho onde são  detalhados;
 Os dados são salvos em localstorage;
-Possui validação para evitar cadastro duplicado;
+Possui validação para evitar cadastro duplicado
 
